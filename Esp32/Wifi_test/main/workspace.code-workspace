@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"err.h": "c",
+			"mbcontroller.h": "c",
+			"deviceparams.h": "c",
+			"modbus_params.h": "c",
+			"esp_modbus_master.h": "c",
+			"sockets.h": "c",
+			"*.inc": "c",
+			"protocol_examples_common.h": "c"
+		},
+		"idf.flashType": "UART",
+		"idf.portWin": "COM3"
+	}
+}

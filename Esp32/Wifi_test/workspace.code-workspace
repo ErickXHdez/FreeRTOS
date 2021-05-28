@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"*.inc": "c"
+		},
+		"idf.portWin": "COM3",
+		"idf.flashType": "UART"
+	}
+}
