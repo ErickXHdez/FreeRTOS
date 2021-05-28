@@ -26,7 +26,6 @@ void write_AnalogicPort(void *arg);
 void convertData(void *arg);
 
 void app_main(void){
-
     ReadData = xQueueCreate(SIZE_COLA,SIZE_DATA);
     if(ReadData==NULL)
         printf("No se pudo crear la cola ReadData\n");
@@ -36,8 +35,6 @@ void app_main(void){
         //xTaskCreate(convertData,"convertData",2048, NULL, 2, NULL);
         //vTaskStartScheduler();
     }
-    
-    
 }
 
 void analogConfig(){
