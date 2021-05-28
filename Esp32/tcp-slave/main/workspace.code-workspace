@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mbcontroller.h": "c",
+			"esp_wifi.h": "c",
+			"sdkconfig.h": "c",
+			"protocol_examples_common.h": "c",
+			"*.ipp": "cpp",
+			"mbc_slave.h": "c",
+			"esp_modbus_slave.h": "c",
+			"esp_modbus_common.h": "c",
+			"event_groups.h": "c"
+		},
+		"idf.portWin": "COM3",
+		"idf.flashType": "UART"
+	}
+}

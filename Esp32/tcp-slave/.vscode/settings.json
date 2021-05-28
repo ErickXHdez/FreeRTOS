@@ -1,0 +1,30 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "C:\\Users\\Erick\\.espressif\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin;C:\\Users\\Erick\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\bin;C:\\Users\\Erick\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-2020r3-8.4.0\\xtensa-esp32s3-elf\\bin;C:\\Users\\Erick\\.espressif\\tools\\riscv32-esp-elf\\1.24.0.123_64eb9ff-8.4.0\\riscv32-esp-elf\\bin;C:\\Users\\Erick\\.espressif\\tools\\esp32ulp-elf\\2.28.51-esp-20191205\\esp32ulp-elf-binutils\\bin;C:\\Users\\Erick\\.espressif\\tools\\esp32s2ulp-elf\\2.28.51-esp-20191205\\esp32s2ulp-elf-binutils\\bin;C:\\Users\\Erick\\.espressif\\tools\\cmake\\3.16.4\\bin;C:\\Users\\Erick\\.espressif\\tools\\openocd-esp32\\v0.10.0-esp32-20200709\\openocd-esp32\\bin;C:\\Users\\Erick\\.espressif\\tools\\ninja\\1.10.2;C:\\Users\\Erick\\.espressif\\tools\\idf-exe\\1.0.1;C:\\Users\\Erick\\.espressif\\tools\\ccache\\3.7;C:\\Users\\Erick\\.espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"C:\\\\Users\\\\Erick\\\\.espressif\\\\tools\\\\openocd-esp32\\\\v0.10.0-esp32-20200709/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
+    "idf.espIdfPathWin": "c:\\Users\\Erick\\esp\\esp-idf",
+    "idf.portWin": "COM2",
+    "idf.pythonBinPathWin": "C:\\Users\\Erick\\.espressif\\python_env\\idf4.4_py3.9_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "C:\\Users\\Erick\\.espressif",
+    "files.associations": {
+        "*.inc": "c",
+        "*.ipp": "c",
+        "sstream": "cpp",
+        "protocol_examples_common.h": "c",
+        "modbus_params.h": "c",
+        "mbcontroller.h": "c",
+        "esp_netif.h": "c",
+        "mdns.h": "c",
+        "mbutils.h": "c",
+        "mbc_slave.h": "c",
+        "esp_modbus_slave.h": "c",
+        "esp_modbus_common.h": "c",
+        "freertos.h": "c",
+        "event_groups.h": "c",
+        "esp_system.h": "c",
+        "dns.h": "c"
+    },
+    "idf.flashType": "UART",
+    "git.ignoreLimitWarning": true
+}
