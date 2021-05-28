@@ -7,3 +7,6 @@ Esp32/Interrupciones_Semaforos/build/
 Esp32/Interrupciones_Semaforos_2/build/
 Esp32/Task_TestTime_State/build/
 Esp32/Read_AnalogicPorts/build/
+Esp32/tcp-slave/build/
+Esp32/Wifi_test/build/
+Esp32/Wifi_test/main/build/
